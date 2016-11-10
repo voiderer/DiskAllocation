@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact name="DiskAllocation:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/DiskAllocation_jar</output-path>
+    <root id="root">
+      <element id="archive" name="DiskAllocation.jar">
+        <element id="module-output" name="DiskAllocation" />
+      </element>
+      <element id="library" level="project" name="substance" />
+    </root>
+  </artifact>
+</component>
